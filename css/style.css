@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{background: #3B5999;}
+.container{width: 1200px;margin: 0 auto;overflow: hidden;}
+.left-part{width: 50%;float: left;margin-top: 30px;}
+.logo{font-size: 40px;color: #fff;text-decoration: none;font-weight: 900;}
+.right-part{width: 50%;float: right;}
+.loginform{}
+.loginform li{float: left;list-style: none;padding: 15px;}
+.loginform span{color: #fff;font-size: 12px;display: block;}
+.loginform input{border: 1px solid black;padding: 3px 4px;width: 100%;margin-top: 5px;}
+.loginform a{display: block;color: #ffffffb3;font-size: 14px;}
+.lb{background: #365899;
+
+color: #fff;
+
+padding: 4px 10px !important;
+
+margin-top: 20px !important;}
+.left-part img{
+    max-width: 100%;
+}
+.act .left-part h2{
+    color: #0e385f;
+
+font-size: 25px;
+
+font-weight: bold;
+
+line-height: 29px;
+
+width: 450px;
+
+word-spacing: -1px;
+}
+.act{
+    background: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fdfdfe+0,dde1ed+100 */
+background: #fdfdfe; /* Old browsers */
+background: -moz-linear-gradient(top, #fdfdfe 0%, #dde1ed 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #fdfdfe 0%,#dde1ed 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #fdfdfe 0%,#dde1ed 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfe', endColorstr='#dde1ed',GradientType=0 ); /* IE6-9 */
+height: 100vh;
+    overflow: hidden;
+}
+.account{
+    width: 500px;
+}
+.account h1{
+    font-size: 40px;
+    color: #333;
+
+    margin-top: 20px;
+}
+.account p{
+    color: #1d2129;
+
+font-size: 19px;
+}
+.fndsr{ overflow: hidden; }
+.fndsr li{list-style: none;width: 50%;float: left;box-sizing: border-box;padding: 10px;}
+.fndsr input{width: 100%;border: 1px solid #e9ebf3;padding: 10px;box-sizing: border-box;border-radius: 5px;}
+.fndsr p{
+    font-size: 20px;
+    max-width: 150px;
+}
+.fndsr a{
+    color: #3b5999;
+
+font-size: 12px;
+}
+.info{}
+.info li{list-style: none;padding: 10px;box-sizing: border-box;}
+.info input{width: 100%;border: 1px solid #e9ebf3;padding: 10px;box-sizing: border-box;border-radius: 5px;}
+.account h4{font-size: 18px;color: #1d2129;}
+select{border: 1px solid #e9ebf3;padding: 10px;box-sizing: border-box;}
+.gender{}
+.gender span{}
+.terms{}
+.terms p{
+    font-size: 14px;
+    color: #666;
+    max-width: 300px;
+    padding: 10px;
+}
+.singup{
+    padding: 10px 35px;
+    color: #fff;
+     /* Old browsers */
+     /* FF3.6-15 */
+     /* Chrome10-25,Safari5.1-6 */
+     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+     /* IE6-9 */
+    border: 2px solid #507741;
+    background: #5A8E46;
+    font-size: 16px;
+}
+h5{
+
+font-size: 14px;
+
+padding: 10px 0;
+}
+h5 a{
+    
+text-decoration: none;
+}
